@@ -1,0 +1,3 @@
+time="2022-07-08T14:32:53+07:00" level=info msg="CategoryServiceImpl Starting for Save" name=Deni username=userdeni
+time="2022-07-08T14:32:53+07:00" level=error msg="Key: 'CategoryWebCreateRequest.Name' Error:Field validation for 'Name' failed on the 'required' tag" name=Deni username=userdeni
+time="2022-07-08T14:32:53+07:00" level=error msg="BAD REQUEST:Key: 'CategoryWebCreateRequest.Name' Error:Field validation for 'Name' failed on the 'required' tag" name=Deni username=userdeni
